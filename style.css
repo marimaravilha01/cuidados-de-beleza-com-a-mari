@@ -1,12 +1,27 @@
+
 .chamada{
-  background: rgb(221, 216, 221);
+  background : rgb(135, 112, 156);
   display: flex;
-  margin-top: 80px;
-  margin-bottom: 80px;
+  padding-top: 80px;
+  padding-bottom: 80px;
   justify-content: center;
 }
 body{
-    background: rgb(0, 0, 0);
-    margin: 0px;
+  background-color: black;
+  margin: 0px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  margin-bottom: 100px;
 }
-
+header{
+  font-size: 35px;
+  color: purple;
+  border-bottom: 3px solid purple;
+  padding: 20px;
+}
+h1{
+  font-size: 40px;
+}
+.chamada-texto{
+  margin-right: 5%;
+}
